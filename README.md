@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florencia</h1>
-<h3 align="center">Front end Developer Jr.</h3>
 
-- 🔭 I’m currently working on **CoderHouse**
 
-- 📫 How to reach me **prof.florencia.andres@gmail.com**
-
-- ⚡ Fun fact **Aguante Chayanne**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
